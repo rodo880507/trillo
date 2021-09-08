@@ -4,4 +4,7 @@ sass/_mouse.scss
 css/icomoon
 package.json
 package-lock.json
-.gitignore
+.git
+.vscode
+css/icomoon/Read Me.txt
+
