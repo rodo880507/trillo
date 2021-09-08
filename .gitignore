@@ -1,1 +1,7 @@
 node_modules
+ejemplo.html
+sass/_mouse.scss
+css/icomoon
+package.json
+package-lock.json
+.gitignore
